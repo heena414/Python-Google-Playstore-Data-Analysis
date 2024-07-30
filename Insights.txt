@@ -1,0 +1,49 @@
+Purpose of this Analysis
+
+The primary purpose of this analysis is to analyze the apps available on the Google Play Store to gain insights into various aspects such as ratings, reviews, app sizes, prices, and more. This analysis aims to provide useful information for developers, marketers, and users.
+
+
+
+SOME INSIGHTS
+
+1. App Titles Containing "Astrology":  
+   - There are 3 apps
+
+2. Average App Rating: 
+   - 4.19
+
+3. Unique Categories: 
+   - 33
+
+4. Category with Highest Average Rating: 
+   - Events (4.4), followed by Education, Art, and Design
+
+5. Total Number of Apps with 5-Star Ratings: 
+   - 274
+
+6. Average Value of Reviews: 
+   - 444,152.89
+
+7. Free vs Paid Apps: 
+   - 10,039 free apps and 800 paid apps
+
+8. App with Maximum Reviews: 
+   - Facebook
+
+9. Top 5 Apps by Reviews: 
+   - Facebook, WhatsApp Messenger
+
+10. Average Rating of Free vs Paid Apps: 
+   - Free (4.18), Paid (4.26)
+
+11. Top 5 Apps by Installs: 
+    - Google Play Books, Messenger – Text and Video Chat for Free, WhatsApp Messenger, Chrome, Gmail
+
+12. Apps per Content Rating: 
+    - "Everyone" (8,714), "Teen" (1,208), "Mature 17+" (499)
+
+13. Top 10 Genres by Number of Apps: 
+    - Tools (842), Entertainment (623), Education (549)
+
+
+

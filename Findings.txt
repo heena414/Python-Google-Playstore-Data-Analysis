@@ -1,0 +1,36 @@
+QUESTIONS:
+
+1. Display Top 5 Rows of the Dataset
+2. Checking Last 3 Rows of the Dataset
+3. Finding Shape of the Dataset i.e, Number of Rows & Number of Columns
+4. Get Informaation about the Dataset like Total Number of Rows, Total Number of Columns, Datatypes of each Column and Memory Requirement
+5. Overall Statistics about the Dataframe
+6. Total Number of App Titles Contain Astrology
+7. Finding Average App Rating
+8. Total Number of Unique Category
+9. Which Category getting the Highest Average Rating?
+10. Total Number of Apps having 5 Star Rating
+11. Average Value of Reviews
+12. Total Number of Free and Paid Apps
+13. Which App has Maximum Reviews?
+14. Top 5 Apps having Highest Reviews
+15. Average Rating of Free and Paid Apps
+16. Top 5 Apps having Maximum Installs
+17. Total Number of Apps per Content Rating
+18. Correlation between Ratings and Number of Reviews
+19. Number of Apps per Genre
+20. Top 10 Most Installed Apps
+21. Average Rating by App Size
+22. Average Rating by Genre
+23. Top 10 Most Expensive Apps
+24. Distribution of App Ratings
+25. Distribution of App Sizes
+26. Average Reviews by Category
+27. Average Price by Category
+28. Number of Apps by Last Updated Year
+29. Top 10 Apps by Number of Reviews
+30. Average Size of Apps by Category
+31. Distribution of Apps by Price
+32. Average Rating by Content Rating
+33. Top 10 Category by Number of Apps
+34. App Rating Distribution by Content Rating
